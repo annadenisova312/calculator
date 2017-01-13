@@ -1,0 +1,6 @@
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe.config
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.pdb
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.csprojResolveAssemblyReference.cache
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.exe
+c:\users\sony\documents\visual studio 2015\Projects\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.pdb
