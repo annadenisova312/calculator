@@ -120,7 +120,7 @@ namespace AreaCalculation
                     break;
             }
         }
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             string CommandString; //Command from user
             char delimiter = ' '; //delimiter to divide string into words
